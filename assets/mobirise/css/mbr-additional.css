@@ -1698,6 +1698,7 @@ body {
 .cid-qQ4T2HVfx2 .media-container-row {
   margin: 0 auto;
   align-items: center;
+  width: 100% !important;
 }
 .cid-qQ4T2HVfx2 .media-container-row .img-item {
   display: flex;
