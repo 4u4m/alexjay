@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "알렉스제이, 본식사진 전문",
-    "currentPage": "page17.html",
+    "currentPage": "admin.html",
     "theme": {
       "name": "agencym4",
       "title": "AgencyM4",
@@ -12259,7 +12259,7 @@
         }
       ]
     },
-    "page17.html": {
+    "admin.html": {
       "settings": {
         "title": "관리자 로그인 페이지",
         "meta_descr": "",
