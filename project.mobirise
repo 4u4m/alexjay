@@ -34,7 +34,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/pavicon-80x80.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
@@ -59,7 +59,8 @@
         "name": "Open Sans",
         "css": "'Open Sans', sans-serif"
       }
-    ]
+    ],
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
@@ -67,7 +68,7 @@
         "main": true,
         "title": "알렉스제이",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<meta name=\"naver-site-verification\" content=\"551e30118ffa414acee907f9d560e8faea7f044f\"/>\n<link rel=\"canonical\" href=\"http://alexjay.co.kr/index.html\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"알렉스제이\">\n<meta property=\"og:description\" content=\"본식 스냅 전문\">\n<meta property=\"og:image\" content=\"http://cdn.imweb.me/upload/S20170103586b89ff9ac7e/5b05355633dab.jpg\">\n<meta property=\"og:url\" content=\"http://www.alexjay.co.kr\">",
         "footer_custom": "",
         "html_before": ""
       },
